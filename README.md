@@ -44,7 +44,7 @@ limitations under the License.
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT16_MAX_BASE2_EXPONENT from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-max-base2-exponent@deno/mod.js';
+import FLOAT16_MAX_BASE2_EXPONENT from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-max-base2-exponent@v0.1.0-deno/mod.js';
 ```
 
 #### FLOAT16_MAX_BASE2_EXPONENT
@@ -71,7 +71,7 @@ var bool = ( FLOAT16_MAX_BASE2_EXPONENT === 15 );
 <!-- eslint-disable id-length -->
 
 ```javascript
-import FLOAT16_MAX_BASE2_EXPONENT from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-max-base2-exponent@deno/mod.js';
+import FLOAT16_MAX_BASE2_EXPONENT from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants-float16-max-base2-exponent@v0.1.0-deno/mod.js';
 
 console.log( FLOAT16_MAX_BASE2_EXPONENT );
 // => 15
